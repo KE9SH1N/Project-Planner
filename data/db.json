@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create New Homepage banner again!!!!",
+      "details": "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Create New Homepage",
+      "details": "Lorem Ipsum",
+      "complete": false
+    },
+    {
+      "title": "done projects",
+      "details": "ddddddddddddddddddddddddddddddd",
+      "complete": true,
+      "id": 3
+    }
+  ]
+}
